@@ -1,23 +1,35 @@
-import logo from '/home/waylonw2077/Development/Code/Phase-2-project/group-5-phase-2-project/src/logo.svg';
-import '/home/waylonw2077/Development/Code/Phase-2-project/group-5-phase-2-project/src/App.css';
+import React, { useState, useEffect } from 'react';
+import MovieForm from './MovieForm';
+import MovieDisplay from './MovieDisplay';
 
 function App() {
+  const [movie, setMovie] = useState(null);
+  const [rating, setRating] = useState(0);
+
+  // Fetch a random movie from db.json on component mount
+  useEffect(() => {
+    fetch('db.json')
+      .then(response => response.json())
+      .then(data => {
+        const randomIndex = Math.floor(Math.random() * data.movies.length);
+        setMovie(data.movies[randomIndex]);
+      })
+      .catch(error => console.error(error));
+  }, []);
+
+  // Handle rating change
+  function handleRatingChange(event) {
+    setRating(parseInt(event.target.value));
+  }
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <MovieDisplay movie={movie} />
+      <MovieForm
+        movie={movie}
+        rating={rating}
+        handleRatingChange={handleRatingChange}
+      />
     </div>
   );
 }
