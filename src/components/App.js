@@ -1,5 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from '/home/waylonw2077/Development/Code/Phase-2-project/group-5-phase-2-project/src/logo.svg';
+import '/home/waylonw2077/Development/Code/Phase-2-project/group-5-phase-2-project/src/App.css';
 
 function App() {
   return (
