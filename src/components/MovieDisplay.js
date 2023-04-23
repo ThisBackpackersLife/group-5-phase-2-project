@@ -1,4 +1,7 @@
+import React from "react";
+
 function MovieDisplay({ movie }) {
+
     return (
       <div>
         {movie ? (
@@ -7,10 +10,10 @@ function MovieDisplay({ movie }) {
             <p>{movie.description}</p>
           </div>
         ) : (
-          <p>Loading...</p>
+          <p>Loading Movie...</p>
         )}
       </div>
-    );
-  }
+    )
+}
   
 export default MovieDisplay

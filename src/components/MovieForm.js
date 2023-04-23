@@ -1,3 +1,5 @@
+import React from "react";
+
 function MovieForm({ movie, rating, handleRatingChange }) {
     return (
       <div>
@@ -17,7 +19,7 @@ function MovieForm({ movie, rating, handleRatingChange }) {
             <input type="submit" value="Submit rating" />
           </form>
         ) : (
-          <p>Loading...</p>
+          <p>Loading Rating...</p>
         )}
       </div>
     );
