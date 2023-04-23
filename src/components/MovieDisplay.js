@@ -7,7 +7,7 @@ function MovieDisplay({ movie }) {
             <p>{movie.description}</p>
           </div>
         ) : (
-          <p>Loading...</p>
+          <p>Loading Movie...</p>
         )}
       </div>
     );
