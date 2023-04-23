@@ -7,11 +7,11 @@ function MovieForm({ movie, rating, handleRatingChange }) {
               Rate this movie:
               <select value={rating} onChange={handleRatingChange}>
                 <option value={0}>Select rating</option>
-                <option value={1}>1 star</option>
-                <option value={2}>2 stars</option>
-                <option value={3}>3 stars</option>
-                <option value={4}>4 stars</option>
-                <option value={5}>5 stars</option>
+                <option value={1}>🎃</option>
+                <option value={2}>🎃🎃</option>
+                <option value={3}>🎃🎃🎃</option>
+                <option value={4}>🎃🎃🎃🎃</option>
+                <option value={5}>🎃🎃🎃🎃🎃</option>
               </select>
             </label>
             <input type="submit" value="Submit rating" />

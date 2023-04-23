@@ -1,0 +1,298 @@
+{
+    "movies": [
+        {
+          "title": "The Shawshank Redemption",
+          "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+          "year": 1994,
+          "genre": "Drama",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKEVEEwyYlEKJbnneJYQ2moCBaammhvILoI7_ayPgU2TN9pLPV"
+        },
+        {
+          "title": "The Godfather",
+          "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+          "year": 1972,
+          "genre": "Crime",
+          "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ6EAZYpFPv-j-msWE7uFUueby2qiH_lz67ryBOJ41kg4nKHJ6y"
+        },
+        {
+          "title": "The Godfather: Part II",
+          "description": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+          "year": 1974,
+          "genre": "Crime",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd5sREDMmdaSXZlzhuoJj_imkOGyuq9pzJu6onY7TN&usqp=CAE&s"
+        },
+        {
+          "title": "The Dark Knight",
+          "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+          "year": 2008,
+          "genre": "Action",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOH1Z3WEv-NS_ahc7NSQRz1LTh813Z6sMmI_E7d1_FYpQd0MxY"
+        },
+        {
+          "title": "12 Angry Men",
+          "description": "A jury holdout attempts to prevent a miscarriage of justice by forcing his colleagues to reconsider the evidence.",
+          "year": 1957,
+          "genre": "Drama",
+          "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTIByFagYjLdqxkV1lrY-NF8rglf8d1x3v3lO3JzYio3QtTYdV8"
+        },
+        {
+          "title": "Schindler's List",
+          "description": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+          "year": 1993,
+          "genre": "Biography",
+          "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR97mJ8OxvSFGwOCBENKiI6o6fsXbWDf_KqtCzHjHlCfROdpqo0"
+        },
+        {
+          "title": "The Lord of the Rings: The Return of the King",
+          "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+          "year": 2003,
+          "genre": "Adventure",
+          "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRB0R_wp7Zr0SWNnDXkJYU-8ZxZYSOFQvnVkT4hdAGA1ZhjUssN"
+        },
+        {
+          "title": "Pulp Fiction",
+          "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+          "year": 1994,
+          "genre": "Crime",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlNRzwKlBbE6QGNyvO0rGoruofKdYgGK9MeozNwRdWmnDMf8xI"
+        },
+        {
+          "title": "The Good, the Bad and the Ugly",
+          "description": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
+          "year": 1966,
+          "genre": "Western",
+          "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTr-M1u0p-pJ8YRWHBmVmksP5X-dwMYZkpf7722Zg5AepS25mvN"
+        },
+        {
+          "title": "The Lord of the Rings: The Fellowship of the Ring",
+          "description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+          "year": 2001,
+          "genre": "Adventure",
+          "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ-hQp-geKRR9PGKRbf-QjY_HA6ha5ZnpQ8dVNbiSMqZi5Z6rue"
+        },
+        {
+          "title": "Forrest Gump",
+          "description": "The presidencies of Kennedy and Johnson, the Vietnam War, and the Watergate scandal, unfold through the perspective of an Alabama man with an IQ of 75.",
+          "year": 1994,
+          "genre": "Drama",
+          "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvJZAr8HsQLqTb0cnw-2SaBI3-8GbmHLz778B-N7PhQZAvAcAU"
+        },
+        {
+          "title": "Inception",
+          "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+          "year": 2010,
+          "genre": "Sci-Fi",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlMnFzleYH2PxfTzz084F3cHelZC9FeJ9Ir4vrlrKjZANPCiMJ"
+        },
+        {
+          "title": "Fight Club",
+          "description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+          "year": 1999,
+          "genre": "Drama",
+          "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSor8IGjk4o_CD4Tc6I4JQL3AFKtSpaMr_YvsbWmZ4kfNqiORHO"
+        },
+        {
+          "title": "The Matrix",
+          "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+          "year": 1999,
+          "genre": "Sci-Fi",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MOU9bwdtLj5bMlHioRxzkr2HEyll3bm1qab6D71WulrKJrtY"
+        },
+        {
+          "title": "Goodfellas",
+          "description": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate."
+          "year": 1990,
+          "genre": "Crime",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgbD0iURYSqhv2P0SRr9WqR5RUSoVbj--7LSThBVHUC6kicCKl"
+        },
+        {
+          "title": "Star Wars: Episode V - The Empire Strikes Back",
+          "description": "After the Rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued by Darth Vader.",
+          "year": 1980,
+          "genre": "Fantasy",
+          "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS-66DuPU8AgfvKv30sUpSVqTyRViBHTgjVBsftkL2gloK0lQ-p"
+        },
+        {
+          "title": "The Silence of the Lambs",
+          "description": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+          "year": 1991,
+          "genre": "Thriller",
+          "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRfFNXhOCDgweeNknbokSz4pmMbxkInAGOjNyCs3wWKWHJj3IRx"
+        },
+        {
+          "title": "The Green Mile",
+          "description": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.",
+          "year": 1999,
+          "genre": "Drama",
+          "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSgZqWs8at0E7djB-Rgntwg_fzuZwWl96llZQl6QkHIDHggZSsf"
+        },
+        {
+          "title": "Saving Private Ryan",
+          "description": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
+          "year": 1998,
+          "genre": "War",
+          "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQ89HMuHlCxJwu68S3e0JQLtY3o_uc2woCAF8Vbq3Y3JzWJMt"
+        },
+        {
+          "title": "The Departed",
+          "description": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+          "year": 2006,
+          "genre": "Crime",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2cphOwr-2NmBB4J767mZGlZpH60HrsVvxnhL7aAz2&usqp=CAE&s"
+        },
+        {
+          "title": "Gladiator",
+          "description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+          "year": 2000,
+          "genre": "Action",
+          "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQo_O8X1L56DAr8hFZz-B8ku7vvcvbrBh5plxWxa_Y1uIWA9Oh"
+        },
+        {
+            "title": "Trial of the Chicago 7",
+            "description": "The film is based on the infamous 1969 trial of seven defendants charged by the federal government with conspiracy and more, arising from the countercultural protests in Chicago at the 1968 Democratic National Convention. The trial transfixed the nation and sparked a conversation about mayhem intended to undermine the U.S. government.",
+            "year": 2020,
+            "genre": "Drama",
+            "image": "https://m.media-amazon.com/images/M/MV5BMzRlMTcwODMtZjhjZS00NWI1LThkMDUtOTAwNzM1ZmU3ZDExXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_SY1000_CR0,0,675,1000_AL_.jpg"
+        },
+        {
+            "title": "Spider-Man Far From Home",
+            "description": "Peter Parker's relaxing European vacation takes an unexpected turn when Nick Fury shows up in his hotel room to recruit him for a mission. The world is in danger as four massive elemental creatures -- each representing Earth, air, water and fire -- emerge from a hole torn in the universe. Parker soon finds himself donning the Spider-Man suit to help Fury and fellow superhero Mysterio stop the evil entities from wreaking havoc across the continent.",
+            "year": 2019,
+            "genre": "Superhero",
+            "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQXGJJq9ioEIztF_HSvK0fnX4UMKjcnEaEsg_WHbGJOeAf3uwft"
+        },
+        {
+            "title": "Eternal Sunshine of the Spotless Mind",
+            "description": "After a painful breakup, Clementine (Kate Winslet) undergoes a procedure to erase memories of her former boyfriend Joel (Jim Carrey) from her mind. When Joel discovers that Clementine is going to extremes to forget their relationship, he undergoes the same procedure and slowly begins to forget the woman that he loved. The visually arresting film explores the intricacy of relationships and the pain of loss.",
+            "year": 2004,
+            "genre": "Drama",
+            "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTzuZ8IKqiINZ7F6dnLGXvfdzFMSx4z4rO9wqtGo_7gUhsfIX6Q"
+        },
+        {
+            "title": "Super Troopers",
+            "description": "Five Vermont state troopers, avid pranksters with a knack for screwing up, try to save their jobs and out-do the local police department by solving a crime.",
+            "year": 2001,
+            "genre": "Comedy",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRupUasrFB_og-6IY1zY2kysKHtMzAyfNvfquOjlhZAWB-z9K7a"
+        },
+        {
+            "title": "Grandma's Boy",
+            "description": "When he and his roommate can't pay their rent, video game creator Alex (Allen Covert) finds himself homeless and moves in with Lilly (Doris Roberts), his wacky grandmother. Lilly and her elderly pals like to hang out in front of the television all day, but their constant presence puts a damper on Alex's social life and pot smoking. Alex wants to court co-worker Samantha (Linda Cardellini), but he's preoccupied by a rivalry with another game designer, so the would-be relationship is in limbo.",
+            "year": 2006,
+            "genre": "Comedy",
+            "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_AVqMQzb7zwKUbleV9AtYTdp4400aViWc9WJPNsMz4s_iLFqG"
+        },
+        {
+            "title": "Guardians of the Galaxy",
+            "description": "Brash space adventurer Peter Quill (Chris Pratt) finds himself the quarry of relentless bounty hunters after he steals an orb coveted by Ronan, a powerful villain. To evade Ronan, Quill is forced into an uneasy truce with four disparate misfits: gun-toting Rocket Raccoon, treelike-humanoid Groot, enigmatic Gamora, and vengeance-driven Drax the Destroyer. But when he discovers the orb's true power and the cosmic threat it poses, Quill must rally his ragtag group to save the universe.",
+            "year": 2014,
+            "genre": "Superhero",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmjqEAJ4yWbMsiJOxCxGQm6JBEWEmAj8Sl_x7jNIhzJO2fpLip"
+        },
+        {
+            "title": "Casablanca",
+            "description": "Rick Blaine (Humphrey Bogart), who owns a nightclub in Casablanca, discovers his old flame Ilsa (Ingrid Bergman) is in town with her husband, Victor Laszlo (Paul Henreid). Laszlo is a famed rebel, and with Germans on his tail, Ilsa knows Rick can help them get out of the country.",
+            "year": 1942,
+            "genre": "Romance",
+            "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxe_DEQcsxBKAzVSrss9lhl9ZW7QZ8MFDstcm5HZDrwBLBjR4t"
+        },
+        {
+            "title": "Snatch",
+            "description": "Illegal boxing promoter Turkish (Jason Statham) convinces gangster Brick Top (Alan Ford) to offer bets on bare-knuckle boxer Mickey (Brad Pitt) at his bookie business. When Mickey does not throw his first fight as agreed, an infuriated Brick Top demands another match. Meanwhile, gangster Frankie Four Fingers (Benicio del Toro) comes to place a bet for a friend with Brick Top's bookies, as multiple criminals converge on a stolen diamond that Frankie has come to London to sell.",
+            "year": 2000,
+            "genre": "Comedy",
+            "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSA-RsSKk8gyRpcSqLj9ie8Q42BR0sjG2ZmxuZh3UxxM5JNvaFH"
+        },
+        {
+            "title": "Spider-Man No Way Home",
+            "description": "With Spider-Man's identity now revealed, our friendly neighborhood web-slinger is unmasked and no longer able to separate his normal life as Peter Parker from the high stakes of being a superhero. When Peter asks for help from Doctor Strange, the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+            "year": 2021,
+            "genre": "Superhero",
+            "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSGsth6vNrPEmAFMS2FmT2j8p6CPhV9Xv4qRxz8a2rAGKJZ9je0"
+        },
+        {
+            "title": "Soul",
+            "description": "Joe is a middle-school band teacher whose life hasn't quite gone the way he expected. His true passion is jazz -- and he's good. But when he travels to another realm to help someone find their passion, he soon discovers what it means to have soul.",
+            "year": 2020,
+            "genre": "Family",
+            "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSu5QPgNuQCyV7oSlambfGZYO48gYIsbCVboZ62Wpa4-Pfst2Nc"
+        },
+        {
+            "title": "Avengers: Endgame",
+            "description": "Adrift in space with no food or water, Tony Stark sends a message to Pepper Potts as his oxygen supply starts to dwindle. Meanwhile, the remaining Avengers -- Thor, Black Widow, Captain America and Bruce Banner -- must figure out a way to bring back their vanquished allies for an epic showdown with Thanos -- the evil demigod who decimated the planet and the universe.",
+            "year": 2019,
+            "genre": "Superhero",
+            "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQA_-tL18_rj9zEcjN6n41NEaJm-kRNF9UeOtvksZ4z_OW6jRA9"
+        },
+        {
+            "title": "Anchorman: The Legend of Ron Burgandy",
+            "description": "Hotshot television anchorman Ron Burgundy (Will Ferrell) welcomes upstart reporter Veronica Corningstone (Christina Applegate) into the male-dominated world of 1970s broadcast news -- that is, until the talented female journalist begins to outshine Burgundy on air. Soon he grows jealous, begins a bitter feud with Veronica and eventually makes a vulgar slip on live TV that ruins his career. However, when an outrageous story breaks at the San Diego Zoo, Ron may get a chance to redeem himself.",
+            "year": 2004,
+            "genre": "Comedy",
+            "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxHWCWnSoDX6qExwXHizOWt56xsN3gA_58ttmO8O5vLhu5YyOk"
+        },
+        {
+            "title": "Caddyshack",
+            "description": "Danny Noonan (Michael O'Keefe), a teen down on his luck, works as a caddy at the snob-infested Bushwood Country Club to raise money for his college education. In an attempt to gain votes for a college scholarship reserved for caddies, Noonan volunteers to caddy for a prominent and influential club member (Ted Knight). Meanwhile, Danny struggles to prepare for the high pressure Caddy Day golf tournament while absorbing New Age advice from wealthy golf guru Ty Webb (Chevy Chase).",
+            "year": 1980,
+            "genre": "Comedy",
+            "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQHqS1M6bEoTAyc6dmxppADKiasj-UP9o0ewlgCdSQcesFB1GyI"
+        },
+        {
+            "title": "Thor: Ragnorak",
+            "description": "Imprisoned on the other side of the universe, the mighty Thor finds himself in a deadly gladiatorial contest that pits him against the Hulk, his former ally and fellow Avenger. Thor's quest for survival leads him in a race against time to prevent the all-powerful Hela from destroying his home world and the Asgardian civilization.",
+            "year": 2017,
+            "genre": "Superhero",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQGvqq_dNrbIxBE4tzNEYGabXzlCR-mqLlceJ_Cat7cwmsj0mL"
+        },
+        {
+            "title": "The Room",
+            "description": "Johnny is a successful banker who lives happily in a San Francisco townhouse with his fiancée, Lisa. One day, inexplicably, she gets bored of him and decides to seduce Johnny's best friend, Mark. From there, nothing will be the same again.",
+            "year": 2003,
+            "genre": "Romance",
+            "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTfvBlhGGJHodrR6G_9t7jQFZGCrf6RnBjAL0JJh-udZFBm8Yuz"
+        },
+        {
+            "title": "Raya and the Last Dragon",
+            "description": "Long ago, in the fantasy world of Kumandra, humans and dragons lived together in harmony. However, when sinister monsters known as the Druun threatened the land, the dragons sacrificed themselves to save humanity. Now, 500 years later, those same monsters have returned, and it's up to a lone warrior to track down the last dragon and stop the Druun for good.",
+            "year": 2021,
+            "genre": "Family",
+            "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSb9CKkQJdQUkO08xlnV_abuCjOacuoNCoIeTl9KCqID0poQP4v"
+        },
+        {
+            "title": "Alice in Wonderland",
+            "description": "Lewis Carroll's beloved fantasy tale is brought to life in this Disney animated classic. When Alice (Kathryn Beaumont), a restless young British girl, falls down a rabbit hole, she enters a magical world. There she encounters an odd assortment of characters, including the grinning Cheshire Cat (Sterling Holloway) and the goofy Mad Hatter (Ed Wynn). When Alice ends up in the court of the tyrannical Queen of Hearts (Verna Felton), she must stay on the ruler's good side -- or risk losing her head.",
+            "year": 1951,
+            "genre": "Family",
+            "image": "https://lumiere-a.akamaihd.net/v1/images/p_aliceinwonderland_19875_ad409a49.jpeg?region=0%2C0%2C540%2C810"
+        },
+        {
+            "title": "Wes Craven's New Nightmare",
+            "description": "Reality and fantasy meet in unsettling ways in this installment of the long-running horror series, which finds director Wes Craven and actors Heather Langenkamp and Robert Englund all portraying themselves. As Heather (Heather Langenkamp) considers making another film with Craven, her son, Dylan (Miko Hughes), falls under the spell of the iconic disfigured villain Freddy Krueger (Robert Englund). Eventually, Langenkamp must confront Freddy's demonic spirit to save the soul of Dylan.",
+            "year": 1994,
+            "genre": "Horror",
+            "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSm8Xo3IVl0b2foDSMfwWsGhakYVsAZgiAuqpTQjA8b5UMc-oEC"
+        },
+        {
+            "title": "Snakes on a Plane",
+            "description": "FBI agent Nelville Flynn (Samuel L. Jackson) boards a flight from Hawaii to Los Angeles, escorting a witness to trial. An on-board assassin releases a crate of deadly serpents in an attempt to kill the witness. Flynn and a host of frightened passengers and crew must band together to survive the slithery threat.",
+            "year": 2006,
+            "genre": "Thriller",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbdnHnf01EuToeYTVxUqycfRD5I_CfjlWbw_ssE-dY6xpR6KXR"
+        },
+        {
+            "title": "Kickass",
+            "description": "Using his love for comics as inspiration, teenager Dave Lizewski (Aaron Johnson) decides to reinvent himself as a superhero -- despite a complete lack of special powers. Dave dons a costume, dubs himself Kick-Ass, and gets to work fighting crime. He joins forces with the father/daughter vigilante team of Big Daddy and Hit Girl, then befriends another fledgling crime-fighter called Red Mist (Christopher Mintz-Plasse), but a scheming mobster soon puts their alliance to the test.",
+            "year": 2010,
+            "genre": "Superhero",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQip2smpL6zi5d8wRKqMpfYh7yjh-PNRT5fY8Qd2RC1Y1VReADb"
+        },
+        {
+            "title": "",
+            "description": "",
+            "year": ,
+            "genre": "",
+            "image": ""
+        }
+    ]
+}
