@@ -2,11 +2,11 @@ import React from "react";
 
 function MovieList({ allMovies }) {
     
-    const renderMovies = allMovies.map( movie =>
-        <movieCard 
+    // const renderMovies = allMovies.map( movie =>
+    //     <movieCard 
         
-        />
-    )
+    //     />
+    // )
 
     return (
         <div className="movie-list">
