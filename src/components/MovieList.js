@@ -1,20 +1,27 @@
 import React from "react";
-
-function MovieList({ allMovies }) {
-    
-    // const renderMovies = allMovies.map( movie =>
-    //     <movieCard 
-        
-    //     />
-    // )
-
+import MovieDisplay from "./MovieDisplay";
+function MovieList({ allMovies, changeSelectedMovie }) {
+    //const clickMovie()
+    const renderMovieList = allMovies.map( movie => {
+        return (
+        <li>
+            <strong>{ movie.title }</strong>
+            <button onClick={ () => selectMovie( movie ) }>More Info</button>
+        </li>
+        )
+    })
+    const selectMovie = movie => (
+        changeSelectedMovie(movie)
+        )
     return (
         <div className="movie-list">
             <span>
-                <h1>~Hideable~ Movie List</h1>
+                <h1>Movie List</h1>
+                <li>
+                    { renderMovieList }
+                </li>
             </span>
         </div>
     )
 }
-
 export default MovieList;

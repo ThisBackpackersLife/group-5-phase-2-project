@@ -15,3 +15,11 @@ root.render(
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
+
+  // broke off code below for later use (gets random pick from fetch)
+  //     const randomIndex = Math.floor(Math.random() * data.movies.length);
+  //     setMovie(data.movies[randomIndex]);
+  //     })
+  //   .catch(error => console.error(error));
+  // 
+  

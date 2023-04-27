@@ -1,0 +1,11 @@
+.dark{
+    background-color: dimgray;
+    color: black;
+}
+.light{
+    background-color: whitesmoke;
+    color: black;
+}
+* {
+    text-align: center;
+}
