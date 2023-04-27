@@ -1,36 +1,72 @@
-import React from "react";
+import React, { useState } from "react";
 
-function MovieForm({ movie, rating, handleRatingChange }) {
-    return (
-      <div>
-        {movie ? (
-          <form>
-            <label>
-              Rate this movie:
-              <select value={rating} onChange={handleRatingChange}>
-                <option value={0}>Select rating</option>
+function MovieForm({ onSubmit }) {
+  const [title, setTitle] = useState("");
+  const [description, setDescription] = useState("");
+  const [year, setYear] = useState("");
+  const [genre, setGenre] = useState("");
+  const [image, setImage] = useState("");
 
-                <option value={1}>🎃</option>
-                <option value={2}>🎃🎃</option>
-                <option value={3}>🎃🎃🎃</option>
-                <option value={4}>🎃🎃🎃🎃</option>
-                <option value={5}>🎃🎃🎃🎃🎃</option>
+  const handleSubmit = (event) => {
+    event.preventDefault();
+    const movieData = { title, description, year, genre, image };
+    onSubmit(movieData);
+    setTitle("");
+    setDescription("");
+    setYear("");
+    setGenre("");
+    setImage("");
+  };
 
-                <option value={1}>1 🎃</option>
-                <option value={2}>2 🎃</option>
-                <option value={3}>3 🎃</option>
-                <option value={4}>4 🎃</option>
-                <option value={5}>5 🎃</option>
+  return (
+    <form onSubmit={handleSubmit}>
+      <label>
+        Title:
+        <input
+          type="text"
+          value={title}
+          onChange={(event) => setTitle(event.target.value)}
+        />
+      </label>
+      <br />
+      <label>
+        Description:
+        <textarea
+          value={description}
+          onChange={(event) => setDescription(event.target.value)}
+        />
+      </label>
+      <br />
+      <label>
+        Year:
+        <input
+          type="text"
+          value={year}
+          onChange={(event) => setYear(event.target.value)}
+        />
+      </label>
+      <br />
+      <label>
+        Genre:
+        <input
+          type="text"
+          value={genre}
+          onChange={(event) => setGenre(event.target.value)}
+        />
+      </label>
+      <br />
+      <label>
+        Image URL:
+        <input
+          type="text"
+          value={image}
+          onChange={(event) => setImage(event.target.value)}
+        />
+      </label>
+      <br />
+      <input type="submit" value="Add Movie" />
+    </form>
+  );
+}
 
-              </select>
-            </label>
-            <input type="submit" value="Submit rating" />
-          </form>
-        ) : (
-          <p>Loading Rating...</p>
-        )}
-      </div>
-    );
-  }
-  
-  export default MovieForm
+export default MovieForm;
