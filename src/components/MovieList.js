@@ -1,7 +1,10 @@
 import React from "react";
-import MovieDisplay from "./MovieDisplay";
-function MovieList({ allMovies, changeSelectedMovie }) {
-    //const clickMovie()
+import RadioButtons from "./RadioButtons";
+import Search from "../Search";
+// import MovieDisplay from "./MovieDisplay";
+
+function MovieList({ allMovies, changeSelectedMovie, radioBtn, changeRadioBtn, movieSearch, changeMovieSearch, movieSearchSubmit }) {
+    
     const renderMovieList = allMovies.map( movie => {
         return (
         <li>
@@ -16,7 +19,20 @@ function MovieList({ allMovies, changeSelectedMovie }) {
     return (
         <div className="movie-list">
             <span>
-                <h1>Movie List</h1>
+                <h1>
+                    Movie List 
+                </h1>
+                <span> 
+                    <RadioButtons
+                        radioBtn={radioBtn}
+                        changeRadioBtn={changeRadioBtn} 
+                    /> 
+                    <Search 
+                        movieSearch={movieSearch}
+                        changeMovieSearch={changeMovieSearch}
+                        movieSearchSubmit={movieSearchSubmit}
+                    />
+                </span>
                 <li>
                     { renderMovieList }
                 </li>

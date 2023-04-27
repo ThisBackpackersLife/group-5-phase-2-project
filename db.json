@@ -479,30 +479,6 @@
       "year": 2019,
       "genre": "Drama",
       "image": "https://pbs.twimg.com/media/EDEsh0gU4AUTO3P?format=jpg&name=900x900"
-    },
-    {
-      "movieId": 1,
-      "rating": "1",
-      "id": 61
-    },
-    {
-      "movieId": 1,
-      "rating": "2",
-      "id": 62
-    },
-    {
-      "movieId": 1,
-      "rating": "3",
-      "id": 63
-    },
-    {
-      "movieId": 1,
-      "rating": "4",
-      "id": 64
-    },
-    {
-      "movieId": 1,
-      "id": 65
     }
   ]
 }

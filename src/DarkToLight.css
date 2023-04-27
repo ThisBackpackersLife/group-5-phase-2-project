@@ -1,9 +1,9 @@
 .dark{
-    background-color: dimgray;
-    color: black;
+    background-color: rgb(20, 19, 18);
+    color: white;
 }
 .light{
-    background-color: whitesmoke;
+    background-color: white;
     color: black;
 }
 * {
