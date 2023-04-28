@@ -23,7 +23,7 @@ function MovieForm({ onSubmit }) {
       <label>
         Title:
         <input
-          type="text"q
+          type="text"
           value={title}
           onChange={(event) => setTitle(event.target.value)}
         />

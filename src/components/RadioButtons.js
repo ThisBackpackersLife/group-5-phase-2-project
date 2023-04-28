@@ -29,11 +29,11 @@ function RadioButtons({ radioBtn, changeRadioBtn }) {
               <label>
                 <input
                   type="radio"
-                  value="title"
-                  checked={selectedRadioBtn === "title"}
+                  value="year"
+                  checked={selectedRadioBtn === "year"}
                   onChange={handleRadioBtnChange}
                 />
-                Sort by Title
+                Sort by Year
               </label>
             </div>
             <div className="radio">

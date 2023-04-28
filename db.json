@@ -6,7 +6,8 @@
       "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
       "year": 1994,
       "genre": "Drama",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKEVEEwyYlEKJbnneJYQ2moCBaammhvILoI7_ayPgU2TN9pLPV"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKEVEEwyYlEKJbnneJYQ2moCBaammhvILoI7_ayPgU2TN9pLPV",
+      "rating": 0
     },
     {
       "id": 2,
@@ -14,7 +15,8 @@
       "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
       "year": 1972,
       "genre": "Crime",
-      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ6EAZYpFPv-j-msWE7uFUueby2qiH_lz67ryBOJ41kg4nKHJ6y"
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ6EAZYpFPv-j-msWE7uFUueby2qiH_lz67ryBOJ41kg4nKHJ6y",
+      "rating": 0
     },
     {
       "id": 3,
@@ -22,7 +24,8 @@
       "description": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
       "year": 1974,
       "genre": "Crime",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd5sREDMmdaSXZlzhuoJj_imkOGyuq9pzJu6onY7TN&usqp=CAE&s"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd5sREDMmdaSXZlzhuoJj_imkOGyuq9pzJu6onY7TN&usqp=CAE&s",
+      "rating": 0
     },
     {
       "id": 4,
@@ -30,7 +33,8 @@
       "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
       "year": 2008,
       "genre": "Action",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOH1Z3WEv-NS_ahc7NSQRz1LTh813Z6sMmI_E7d1_FYpQd0MxY"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOH1Z3WEv-NS_ahc7NSQRz1LTh813Z6sMmI_E7d1_FYpQd0MxY",
+      "rating": 0
     },
     {
       "id": 5,
@@ -38,7 +42,8 @@
       "description": "A jury holdout attempts to prevent a miscarriage of justice by forcing his colleagues to reconsider the evidence.",
       "year": 1957,
       "genre": "Drama",
-      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTIByFagYjLdqxkV1lrY-NF8rglf8d1x3v3lO3JzYio3QtTYdV8"
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTIByFagYjLdqxkV1lrY-NF8rglf8d1x3v3lO3JzYio3QtTYdV8",
+      "rating": 0
     },
     {
       "id": 6,
@@ -46,7 +51,8 @@
       "description": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
       "year": 1993,
       "genre": "Biography",
-      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR97mJ8OxvSFGwOCBENKiI6o6fsXbWDf_KqtCzHjHlCfROdpqo0"
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR97mJ8OxvSFGwOCBENKiI6o6fsXbWDf_KqtCzHjHlCfROdpqo0",
+      "rating": 0
     },
     {
       "id": 7,
@@ -54,7 +60,8 @@
       "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
       "year": 2003,
       "genre": "Adventure",
-      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRB0R_wp7Zr0SWNnDXkJYU-8ZxZYSOFQvnVkT4hdAGA1ZhjUssN"
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRB0R_wp7Zr0SWNnDXkJYU-8ZxZYSOFQvnVkT4hdAGA1ZhjUssN",
+      "rating": 0
     },
     {
       "id": 8,
@@ -62,7 +69,8 @@
       "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
       "year": 1994,
       "genre": "Crime",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlNRzwKlBbE6QGNyvO0rGoruofKdYgGK9MeozNwRdWmnDMf8xI"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlNRzwKlBbE6QGNyvO0rGoruofKdYgGK9MeozNwRdWmnDMf8xI",
+      "rating": 0
     },
     {
       "id": 9,
@@ -70,7 +78,8 @@
       "description": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
       "year": 1966,
       "genre": "Western",
-      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTr-M1u0p-pJ8YRWHBmVmksP5X-dwMYZkpf7722Zg5AepS25mvN"
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTr-M1u0p-pJ8YRWHBmVmksP5X-dwMYZkpf7722Zg5AepS25mvN",
+      "rating": 0
     },
     {
       "id": 10,
@@ -78,7 +87,8 @@
       "description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
       "year": 2001,
       "genre": "Adventure",
-      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ-hQp-geKRR9PGKRbf-QjY_HA6ha5ZnpQ8dVNbiSMqZi5Z6rue"
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ-hQp-geKRR9PGKRbf-QjY_HA6ha5ZnpQ8dVNbiSMqZi5Z6rue",
+      "rating": 0
     },
     {
       "id": 11,
@@ -86,7 +96,8 @@
       "description": "The presidencies of Kennedy and Johnson, the Vietnam War, and the Watergate scandal, unfold through the perspective of an Alabama man with an IQ of 75.",
       "year": 1994,
       "genre": "Drama",
-      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvJZAr8HsQLqTb0cnw-2SaBI3-8GbmHLz778B-N7PhQZAvAcAU"
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvJZAr8HsQLqTb0cnw-2SaBI3-8GbmHLz778B-N7PhQZAvAcAU",
+      "rating": 0
     },
     {
       "id": 12,
@@ -94,7 +105,8 @@
       "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
       "year": 2010,
       "genre": "Sci-Fi",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlMnFzleYH2PxfTzz084F3cHelZC9FeJ9Ir4vrlrKjZANPCiMJ"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlMnFzleYH2PxfTzz084F3cHelZC9FeJ9Ir4vrlrKjZANPCiMJ",
+      "rating": 0
     },
     {
       "id": 13,
@@ -102,7 +114,8 @@
       "description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
       "year": 1999,
       "genre": "Drama",
-      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSor8IGjk4o_CD4Tc6I4JQL3AFKtSpaMr_YvsbWmZ4kfNqiORHO"
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSor8IGjk4o_CD4Tc6I4JQL3AFKtSpaMr_YvsbWmZ4kfNqiORHO",
+      "rating": 0
     },
     {
       "id": 14,
@@ -110,7 +123,8 @@
       "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
       "year": 1999,
       "genre": "Sci-Fi",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MOU9bwdtLj5bMlHioRxzkr2HEyll3bm1qab6D71WulrKJrtY"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MOU9bwdtLj5bMlHioRxzkr2HEyll3bm1qab6D71WulrKJrtY",
+      "rating": 0
     },
     {
       "id": 15,
@@ -118,7 +132,8 @@
       "description": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.",
       "year": 1990,
       "genre": "Crime",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgbD0iURYSqhv2P0SRr9WqR5RUSoVbj--7LSThBVHUC6kicCKl"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgbD0iURYSqhv2P0SRr9WqR5RUSoVbj--7LSThBVHUC6kicCKl",
+      "rating": 0
     },
     {
       "id": 16,
@@ -126,7 +141,8 @@
       "description": "After the Rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued by Darth Vader.",
       "year": 1980,
       "genre": "Fantasy",
-      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS-66DuPU8AgfvKv30sUpSVqTyRViBHTgjVBsftkL2gloK0lQ-p"
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS-66DuPU8AgfvKv30sUpSVqTyRViBHTgjVBsftkL2gloK0lQ-p",
+      "rating": 0
     },
     {
       "id": 17,
@@ -134,7 +150,8 @@
       "description": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
       "year": 1991,
       "genre": "Thriller",
-      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRfFNXhOCDgweeNknbokSz4pmMbxkInAGOjNyCs3wWKWHJj3IRx"
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRfFNXhOCDgweeNknbokSz4pmMbxkInAGOjNyCs3wWKWHJj3IRx",
+      "rating": 0
     },
     {
       "id": 18,
@@ -142,7 +159,8 @@
       "description": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.",
       "year": 1999,
       "genre": "Drama",
-      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSgZqWs8at0E7djB-Rgntwg_fzuZwWl96llZQl6QkHIDHggZSsf"
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSgZqWs8at0E7djB-Rgntwg_fzuZwWl96llZQl6QkHIDHggZSsf",
+      "rating": 0
     },
     {
       "id": 19,
@@ -150,7 +168,8 @@
       "description": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
       "year": 1998,
       "genre": "War",
-      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQ89HMuHlCxJwu68S3e0JQLtY3o_uc2woCAF8Vbq3Y3JzWJMto"
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQ89HMuHlCxJwu68S3e0JQLtY3o_uc2woCAF8Vbq3Y3JzWJMto",
+      "rating": 0
     },
     {
       "id": 20,
@@ -158,7 +177,8 @@
       "description": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
       "year": 2006,
       "genre": "Crime",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2cphOwr-2NmBB4J767mZGlZpH60HrsVvxnhL7aAz2&usqp=CAE&s"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2cphOwr-2NmBB4J767mZGlZpH60HrsVvxnhL7aAz2&usqp=CAE&s",
+      "rating": 0
     },
     {
       "id": 21,
@@ -166,7 +186,8 @@
       "description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
       "year": 2000,
       "genre": "Action",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU4N3xFKEkSiJKm2uYHRpUd_Oo36BPgyw1FwO2rEap&usqp=CAE&s"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU4N3xFKEkSiJKm2uYHRpUd_Oo36BPgyw1FwO2rEap&usqp=CAE&s",
+      "rating": 0
     },
     {
       "id": 22,
@@ -174,7 +195,8 @@
       "description": "The film is based on the infamous 1969 trial of seven defendants charged by the federal government with conspiracy and more, arising from the countercultural protests in Chicago at the 1968 Democratic National Convention. The trial transfixed the nation and sparked a conversation about mayhem intended to undermine the U.S. government.",
       "year": 2020,
       "genre": "Drama",
-      "image": "https://m.media-amazon.com/images/M/MV5BMzRlMTcwODMtZjhjZS00NWI1LThkMDUtOTAwNzM1ZmU3ZDExXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_SY1000_CR0,0,675,1000_AL_.jpg"
+      "image": "https://m.media-amazon.com/images/M/MV5BMzRlMTcwODMtZjhjZS00NWI1LThkMDUtOTAwNzM1ZmU3ZDExXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_SY1000_CR0,0,675,1000_AL_.jpg",
+      "rating": 0
     },
     {
       "id": 23,
@@ -182,7 +204,8 @@
       "description": "Peter Parker's relaxing European vacation takes an unexpected turn when Nick Fury shows up in his hotel room to recruit him for a mission. The world is in danger as four massive elemental creatures -- each representing Earth, air, water and fire -- emerge from a hole torn in the universe. Parker soon finds himself donning the Spider-Man suit to help Fury and fellow superhero Mysterio stop the evil entities from wreaking havoc across the continent.",
       "year": 2019,
       "genre": "Superhero",
-      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQXGJJq9ioEIztF_HSvK0fnX4UMKjcnEaEsg_WHbGJOeAf3uwft"
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQXGJJq9ioEIztF_HSvK0fnX4UMKjcnEaEsg_WHbGJOeAf3uwft",
+      "rating": 0
     },
     {
       "id": 24,
@@ -190,7 +213,8 @@
       "description": "After a painful breakup, Clementine (Kate Winslet) undergoes a procedure to erase memories of her former boyfriend Joel (Jim Carrey) from her mind. When Joel discovers that Clementine is going to extremes to forget their relationship, he undergoes the same procedure and slowly begins to forget the woman that he loved. The visually arresting film explores the intricacy of relationships and the pain of loss.",
       "year": 2004,
       "genre": "Drama",
-      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTzuZ8IKqiINZ7F6dnLGXvfdzFMSx4z4rO9wqtGo_7gUhsfIX6Q"
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTzuZ8IKqiINZ7F6dnLGXvfdzFMSx4z4rO9wqtGo_7gUhsfIX6Q",
+      "rating": 0
     },
     {
       "id": 25,
@@ -198,7 +222,8 @@
       "description": "Five Vermont state troopers, avid pranksters with a knack for screwing up, try to save their jobs and out-do the local police department by solving a crime.",
       "year": 2001,
       "genre": "Comedy",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRupUasrFB_og-6IY1zY2kysKHtMzAyfNvfquOjlhZAWB-z9K7a"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRupUasrFB_og-6IY1zY2kysKHtMzAyfNvfquOjlhZAWB-z9K7a",
+      "rating": 0
     },
     {
       "id": 26,
@@ -206,7 +231,8 @@
       "description": "When he and his roommate can't pay their rent, video game creator Alex (Allen Covert) finds himself homeless and moves in with Lilly (Doris Roberts), his wacky grandmother. Lilly and her elderly pals like to hang out in front of the television all day, but their constant presence puts a damper on Alex's social life and pot smoking. Alex wants to court co-worker Samantha (Linda Cardellini), but he's preoccupied by a rivalry with another game designer, so the would-be relationship is in limbo.",
       "year": 2006,
       "genre": "Comedy",
-      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_AVqMQzb7zwKUbleV9AtYTdp4400aViWc9WJPNsMz4s_iLFqG"
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_AVqMQzb7zwKUbleV9AtYTdp4400aViWc9WJPNsMz4s_iLFqG",
+      "rating": 0
     },
     {
       "id": 27,
@@ -214,7 +240,8 @@
       "description": "Brash space adventurer Peter Quill (Chris Pratt) finds himself the quarry of relentless bounty hunters after he steals an orb coveted by Ronan, a powerful villain. To evade Ronan, Quill is forced into an uneasy truce with four disparate misfits: gun-toting Rocket Raccoon, treelike-humanoid Groot, enigmatic Gamora, and vengeance-driven Drax the Destroyer. But when he discovers the orb's true power and the cosmic threat it poses, Quill must rally his ragtag group to save the universe.",
       "year": 2014,
       "genre": "Superhero",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmjqEAJ4yWbMsiJOxCxGQm6JBEWEmAj8Sl_x7jNIhzJO2fpLip"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmjqEAJ4yWbMsiJOxCxGQm6JBEWEmAj8Sl_x7jNIhzJO2fpLip",
+      "rating": 0
     },
     {
       "id": 28,
@@ -222,7 +249,8 @@
       "description": "Rick Blaine (Humphrey Bogart), who owns a nightclub in Casablanca, discovers his old flame Ilsa (Ingrid Bergman) is in town with her husband, Victor Laszlo (Paul Henreid). Laszlo is a famed rebel, and with Germans on his tail, Ilsa knows Rick can help them get out of the country.",
       "year": 1942,
       "genre": "Romance",
-      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxe_DEQcsxBKAzVSrss9lhl9ZW7QZ8MFDstcm5HZDrwBLBjR4t"
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxe_DEQcsxBKAzVSrss9lhl9ZW7QZ8MFDstcm5HZDrwBLBjR4t",
+      "rating": 0
     },
     {
       "id": 29,
@@ -230,7 +258,8 @@
       "description": "Illegal boxing promoter Turkish (Jason Statham) convinces gangster Brick Top (Alan Ford) to offer bets on bare-knuckle boxer Mickey (Brad Pitt) at his bookie business. When Mickey does not throw his first fight as agreed, an infuriated Brick Top demands another match. Meanwhile, gangster Frankie Four Fingers (Benicio del Toro) comes to place a bet for a friend with Brick Top's bookies, as multiple criminals converge on a stolen diamond that Frankie has come to London to sell.",
       "year": 2000,
       "genre": "Comedy",
-      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSA-RsSKk8gyRpcSqLj9ie8Q42BR0sjG2ZmxuZh3UxxM5JNvaFH"
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSA-RsSKk8gyRpcSqLj9ie8Q42BR0sjG2ZmxuZh3UxxM5JNvaFH",
+      "rating": 0
     },
     {
       "id": 30,
@@ -238,7 +267,8 @@
       "description": "With Spider-Man's identity now revealed, our friendly neighborhood web-slinger is unmasked and no longer able to separate his normal life as Peter Parker from the high stakes of being a superhero. When Peter asks for help from Doctor Strange, the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
       "year": 2021,
       "genre": "Superhero",
-      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSGsth6vNrPEmAFMS2FmT2j8p6CPhV9Xv4qRxz8a2rAGKJZ9je0"
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSGsth6vNrPEmAFMS2FmT2j8p6CPhV9Xv4qRxz8a2rAGKJZ9je0",
+      "rating": 0
     },
     {
       "id": 31,
@@ -246,7 +276,8 @@
       "description": "Joe is a middle-school band teacher whose life hasn't quite gone the way he expected. His true passion is jazz -- and he's good. But when he travels to another realm to help someone find their passion, he soon discovers what it means to have soul.",
       "year": 2020,
       "genre": "Family",
-      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSu5QPgNuQCyV7oSlambfGZYO48gYIsbCVboZ62Wpa4-Pfst2Nc"
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSu5QPgNuQCyV7oSlambfGZYO48gYIsbCVboZ62Wpa4-Pfst2Nc",
+      "rating": 0
     },
     {
       "id": 32,
@@ -254,7 +285,8 @@
       "description": "Adrift in space with no food or water, Tony Stark sends a message to Pepper Potts as his oxygen supply starts to dwindle. Meanwhile, the remaining Avengers -- Thor, Black Widow, Captain America and Bruce Banner -- must figure out a way to bring back their vanquished allies for an epic showdown with Thanos -- the evil demigod who decimated the planet and the universe.",
       "year": 2019,
       "genre": "Superhero",
-      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQA_-tL18_rj9zEcjN6n41NEaJm-kRNF9UeOtvksZ4z_OW6jRA9"
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQA_-tL18_rj9zEcjN6n41NEaJm-kRNF9UeOtvksZ4z_OW6jRA9",
+      "rating": 0
     },
     {
       "id": 33,
@@ -262,7 +294,8 @@
       "description": "Hotshot television anchorman Ron Burgundy (Will Ferrell) welcomes upstart reporter Veronica Corningstone (Christina Applegate) into the male-dominated world of 1970s broadcast news -- that is, until the talented female journalist begins to outshine Burgundy on air. Soon he grows jealous, begins a bitter feud with Veronica and eventually makes a vulgar slip on live TV that ruins his career. However, when an outrageous story breaks at the San Diego Zoo, Ron may get a chance to redeem himself.",
       "year": 2004,
       "genre": "Comedy",
-      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxHWCWnSoDX6qExwXHizOWt56xsN3gA_58ttmO8O5vLhu5YyOk"
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxHWCWnSoDX6qExwXHizOWt56xsN3gA_58ttmO8O5vLhu5YyOk",
+      "rating": 0
     },
     {
       "id": 34,
@@ -270,7 +303,8 @@
       "description": "Danny Noonan (Michael O'Keefe), a teen down on his luck, works as a caddy at the snob-infested Bushwood Country Club to raise money for his college education. In an attempt to gain votes for a college scholarship reserved for caddies, Noonan volunteers to caddy for a prominent and influential club member (Ted Knight). Meanwhile, Danny struggles to prepare for the high pressure Caddy Day golf tournament while absorbing New Age advice from wealthy golf guru Ty Webb (Chevy Chase).",
       "year": 1980,
       "genre": "Comedy",
-      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQHqS1M6bEoTAyc6dmxppADKiasj-UP9o0ewlgCdSQcesFB1GyI"
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQHqS1M6bEoTAyc6dmxppADKiasj-UP9o0ewlgCdSQcesFB1GyI",
+      "rating": 0
     },
     {
       "id": 35,
@@ -278,7 +312,8 @@
       "description": "Imprisoned on the other side of the universe, the mighty Thor finds himself in a deadly gladiatorial contest that pits him against the Hulk, his former ally and fellow Avenger. Thor's quest for survival leads him in a race against time to prevent the all-powerful Hela from destroying his home world and the Asgardian civilization.",
       "year": 2017,
       "genre": "Superhero",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQGvqq_dNrbIxBE4tzNEYGabXzlCR-mqLlceJ_Cat7cwmsj0mL"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQGvqq_dNrbIxBE4tzNEYGabXzlCR-mqLlceJ_Cat7cwmsj0mL",
+      "rating": 0
     },
     {
       "id": 36,
@@ -286,7 +321,8 @@
       "description": "Johnny is a successful banker who lives happily in a San Francisco townhouse with his fiancée, Lisa. One day, inexplicably, she gets bored of him and decides to seduce Johnny's best friend, Mark. From there, nothing will be the same again.",
       "year": 2003,
       "genre": "Romance",
-      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTfvBlhGGJHodrR6G_9t7jQFZGCrf6RnBjAL0JJh-udZFBm8Yuz"
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTfvBlhGGJHodrR6G_9t7jQFZGCrf6RnBjAL0JJh-udZFBm8Yuz",
+      "rating": 0
     },
     {
       "id": 37,
@@ -294,7 +330,8 @@
       "description": "Long ago, in the fantasy world of Kumandra, humans and dragons lived together in harmony. However, when sinister monsters known as the Druun threatened the land, the dragons sacrificed themselves to save humanity. Now, 500 years later, those same monsters have returned, and it's up to a lone warrior to track down the last dragon and stop the Druun for good.",
       "year": 2021,
       "genre": "Family",
-      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSb9CKkQJdQUkO08xlnV_abuCjOacuoNCoIeTl9KCqID0poQP4v"
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSb9CKkQJdQUkO08xlnV_abuCjOacuoNCoIeTl9KCqID0poQP4v",
+      "rating": 0
     },
     {
       "id": 38,
@@ -302,7 +339,8 @@
       "description": "Lewis Carroll's beloved fantasy tale is brought to life in this Disney animated classic. When Alice (Kathryn Beaumont), a restless young British girl, falls down a rabbit hole, she enters a magical world. There she encounters an odd assortment of characters, including the grinning Cheshire Cat (Sterling Holloway) and the goofy Mad Hatter (Ed Wynn). When Alice ends up in the court of the tyrannical Queen of Hearts (Verna Felton), she must stay on the ruler's good side -- or risk losing her head.",
       "year": 1951,
       "genre": "Family",
-      "image": "https://lumiere-a.akamaihd.net/v1/images/p_aliceinwonderland_19875_ad409a49.jpeg?region=0%2C0%2C540%2C810"
+      "image": "https://lumiere-a.akamaihd.net/v1/images/p_aliceinwonderland_19875_ad409a49.jpeg?region=0%2C0%2C540%2C810",
+      "rating": 0
     },
     {
       "id": 39,
@@ -310,7 +348,8 @@
       "description": "Reality and fantasy meet in unsettling ways in this installment of the long-running horror series, which finds director Wes Craven and actors Heather Langenkamp and Robert Englund all portraying themselves. As Heather (Heather Langenkamp) considers making another film with Craven, her son, Dylan (Miko Hughes), falls under the spell of the iconic disfigured villain Freddy Krueger (Robert Englund). Eventually, Langenkamp must confront Freddy's demonic spirit to save the soul of Dylan.",
       "year": 1994,
       "genre": "Horror",
-      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSm8Xo3IVl0b2foDSMfwWsGhakYVsAZgiAuqpTQjA8b5UMc-oEC"
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSm8Xo3IVl0b2foDSMfwWsGhakYVsAZgiAuqpTQjA8b5UMc-oEC",
+      "rating": 0
     },
     {
       "id": 40,
@@ -318,7 +357,8 @@
       "description": "FBI agent Nelville Flynn (Samuel L. Jackson) boards a flight from Hawaii to Los Angeles, escorting a witness to trial. An on-board assassin releases a crate of deadly serpents in an attempt to kill the witness. Flynn and a host of frightened passengers and crew must band together to survive the slithery threat.",
       "year": 2006,
       "genre": "Thriller",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbdnHnf01EuToeYTVxUqycfRD5I_CfjlWbw_ssE-dY6xpR6KXR"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbdnHnf01EuToeYTVxUqycfRD5I_CfjlWbw_ssE-dY6xpR6KXR",
+      "rating": 0
     },
     {
       "id": 41,
@@ -326,7 +366,8 @@
       "description": "Using his love for comics as inspiration, teenager Dave Lizewski (Aaron Johnson) decides to reinvent himself as a superhero -- despite a complete lack of special powers. Dave dons a costume, dubs himself Kick-Ass, and gets to work fighting crime. He joins forces with the father/daughter vigilante team of Big Daddy and Hit Girl, then befriends another fledgling crime-fighter called Red Mist (Christopher Mintz-Plasse), but a scheming mobster soon puts their alliance to the test.",
       "year": 2010,
       "genre": "Superhero",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQip2smpL6zi5d8wRKqMpfYh7yjh-PNRT5fY8Qd2RC1Y1VReADb"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQip2smpL6zi5d8wRKqMpfYh7yjh-PNRT5fY8Qd2RC1Y1VReADb",
+      "rating": 0
     },
     {
       "id": 42,
@@ -334,7 +375,8 @@
       "description": "In a future where mutants are nearly extinct, an elderly and weary Logan leads a quiet life. But when Laura, a mutant child pursued by scientists, comes to him for help, he must get her to safety.",
       "year": 2017,
       "genre": "Superhero",
-      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRLqupfOvC_hCQ2o_yzAD8UcArj3wbA38HNMeGl9dQNF3DdFgR5"
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRLqupfOvC_hCQ2o_yzAD8UcArj3wbA38HNMeGl9dQNF3DdFgR5",
+      "rating": 0
     },
     {
       "id": 43,
@@ -342,7 +384,8 @@
       "description": "While trying to lead a quiet suburban life, a family of undercover superheroes are forced into action to save the world.",
       "year": 2004,
       "genre": "Family",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlSSCy9q7JlecKgRaRFXsSllFDZ2c_bbcCVfarPD2Rd9xo5q-0"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlSSCy9q7JlecKgRaRFXsSllFDZ2c_bbcCVfarPD2Rd9xo5q-0",
+      "rating": 0
     },
     {
       "id": 44,
@@ -350,7 +393,8 @@
       "description": "Blacksmith Will Turner teams up with eccentric pirate 'Captain' Jack Sparrow to save his love, the governor's daughter, from Jack's former pirate allies, who are now undead.",
       "year": 2003,
       "genre": "Adventure",
-      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKTcTqELNNPpy-c6orc876-Yxo-_QKENBdIufLEZNlSjHQBj_i"
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKTcTqELNNPpy-c6orc876-Yxo-_QKENBdIufLEZNlSjHQBj_i",
+      "rating": 0
     },
     {
       "id": 45,
@@ -358,7 +402,8 @@
       "description": "An aspiring author during the civil rights movement of the 1960s decides to write a book detailing the African American maids' point of view on the white families for which they work, and the hardships they go through on a daily basis.",
       "year": 2011,
       "genre": "Drama",
-      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQqbNhurxcP1mJCzwkOYSQYZYYf0pxivDGc6XbBV-o_3pBoRwGH"
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQqbNhurxcP1mJCzwkOYSQYZYYf0pxivDGc6XbBV-o_3pBoRwGH",
+      "rating": 0
     },
     {
       "id": 46,
@@ -366,7 +411,8 @@
       "description": "Young Dorothy Gale and her dog Toto are swept away by a tornado from their Kansas farm to the magical Land of Oz, and embark on a quest with three new friends to see the Wizard, who can return her to her home and fulfill the others' wishes.",
       "year": 1939,
       "genre": "Fantasy",
-      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8Q9YZqxRxtbs7n4FmIEdBJzPvadE4Ko90aueFIsJGqV1G-T9p"
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8Q9YZqxRxtbs7n4FmIEdBJzPvadE4Ko90aueFIsJGqV1G-T9p",
+      "rating": 0
     },
     {
       "id": 47,
@@ -374,7 +420,8 @@
       "description": "A narcissistic, self-centered weatherman finds himself in a time loop on Groundhog Day, and the day keeps repeating until he gets it right.",
       "year": 1993,
       "genre": "Comedy",
-      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSjglSEi8j1qvFTlrCYshtzoy1BPT2HmyH-aYASLeOGlSNjHsyp"
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSjglSEi8j1qvFTlrCYshtzoy1BPT2HmyH-aYASLeOGlSNjHsyp",
+      "rating": 0
     },
     {
       "id": 48,
@@ -382,7 +429,8 @@
       "description": "Fortunately, what starts as a depiction of loss and despair quickly turns into the heartwarming story of a depressed old man who finds hope in a young child who needs him. Pixar movies are famous for hitting you in the gut, and Up may be the most effective in that regard. ",
       "year": 2009,
       "genre": "Family",
-      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSyFuriYfTNeYAnZuKxjeSESnMUq_HyVNvKkNDZC9XwHLujAbj6"
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSyFuriYfTNeYAnZuKxjeSESnMUq_HyVNvKkNDZC9XwHLujAbj6",
+      "rating": 0
     },
     {
       "id": 49,
@@ -390,7 +438,8 @@
       "description": "The magically long-haired Rapunzel has spent her entire life in a tower, but now that a runaway thief has stumbled upon her, she is about to discover the world for the first time, and who she really is.",
       "year": 2010,
       "genre": "Family",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4r0lBkvuOBiIJBQ1zRWnBoVYfDpLazf6ocVgd2EKDmLI6qJJ6"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4r0lBkvuOBiIJBQ1zRWnBoVYfDpLazf6ocVgd2EKDmLI6qJJ6",
+      "rating": 0
     },
     {
       "id": 50,
@@ -398,7 +447,8 @@
       "description": "A haunting portrait of Lucy, a young university student drawn into a mysterious hidden world of unspoken desires.",
       "year": 2011,
       "genre": "Family",
-      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSzZTZJimENlXSMjFoUtMJbeNEOhAOj-tKpJO0HtwxXaORvkzBS"
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSzZTZJimENlXSMjFoUtMJbeNEOhAOj-tKpJO0HtwxXaORvkzBS",
+      "rating": 0
     },
     {
       "id": 51,
@@ -406,7 +456,8 @@
       "description": "A selfish Prince is cursed to become a monster for the rest of his life, unless he learns to fall in love with a beautiful young woman he keeps prisoner.",
       "year": 2017,
       "genre": "Family",
-      "image": "https://lumiere-a.akamaihd.net/v1/images/p_beautyandthebeast_19752_32e65c36.jpeg?region=0%2C0%2C540%2C810"
+      "image": "https://lumiere-a.akamaihd.net/v1/images/p_beautyandthebeast_19752_32e65c36.jpeg?region=0%2C0%2C540%2C810",
+      "rating": 0
     },
     {
       "id": 52,
@@ -414,7 +465,8 @@
       "description": "After the murder of his father, a young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery.",
       "year": 2019,
       "genre": "Family",
-      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTAaxbfd8Mp6ggTcp4iTvQDBQw1JwkiJWaMVFqfczV9VPLd9Fvp"
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTAaxbfd8Mp6ggTcp4iTvQDBQw1JwkiJWaMVFqfczV9VPLd9Fvp",
+      "rating": 0
     },
     {
       "id": 53,
@@ -422,7 +474,8 @@
       "description": "A kind-hearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true.",
       "year": 2019,
       "genre": "Family",
-      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSI7uHbs5tWgho9KDgxJwIC-rg-E64T5u82DLCqm5xIw0y-438w"
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSI7uHbs5tWgho9KDgxJwIC-rg-E64T5u82DLCqm5xIw0y-438w",
+      "rating": 0
     },
     {
       "id": 54,
@@ -430,7 +483,8 @@
       "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
       "year": 2014,
       "genre": "Sci-Fi",
-      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQUw076GR7JpnfExoBLTMpiE9otUzk518SylUdC1roF6Ah63NS9"
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQUw076GR7JpnfExoBLTMpiE9otUzk518SylUdC1roF6Ah63NS9",
+      "rating": 0
     },
     {
       "id": 55,
@@ -438,7 +492,8 @@
       "description": "A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.",
       "year": 2002,
       "genre": "Drama",
-      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT31Ls2oYDmaZMKRSga-_qujuAU-n1N_XqYtSxL9byJVnnVcSI6"
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT31Ls2oYDmaZMKRSga-_qujuAU-n1N_XqYtSxL9byJVnnVcSI6",
+      "rating": 0
     },
     {
       "id": 56,
@@ -446,7 +501,8 @@
       "description": "After a tragic accident, two stage magicians in 1890s London engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.",
       "year": 2006,
       "genre": "Drama",
-      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTRJH8xMbcPS3B6WoHjsjwghwn4seBH0VPxxKEBtUEBj8QS4S8x"
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTRJH8xMbcPS3B6WoHjsjwghwn4seBH0VPxxKEBtUEBj8QS4S8x",
+      "rating": 0
     },
     {
       "id": 57,
@@ -454,7 +510,8 @@
       "description": "After he becoming a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver.",
       "year": 2011,
       "genre": "Drama",
-      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTTGCKq7GcLEuE3dGs--1rBVJm9dmHeZEtWTE_RzuuwqtkDkobG"
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTTGCKq7GcLEuE3dGs--1rBVJm9dmHeZEtWTE_RzuuwqtkDkobG",
+      "rating": 0
     },
     {
       "id": 58,
@@ -462,7 +519,8 @@
       "description": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.",
       "year": 2008,
       "genre": "Family",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxYd3qWb7UlM_UBeis23ZV3SHzJpNy9-aBeScMnEzLHO1zc0wD"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxYd3qWb7UlM_UBeis23ZV3SHzJpNy9-aBeScMnEzLHO1zc0wD",
+      "rating": 0
     },
     {
       "id": 59,
@@ -470,7 +528,8 @@
       "description": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
       "year": 2018,
       "genre": "Superhero",
-      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQZ1tJvdoKV1vgMM-XyYxpIqBIT5-SSSUOMKCw0oYhIRMi915xa"
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQZ1tJvdoKV1vgMM-XyYxpIqBIT5-SSSUOMKCw0oYhIRMi915xa",
+      "rating": 0
     },
     {
       "id": 60,
@@ -478,7 +537,42 @@
       "description": "The rise of Arthur Fleck, from aspiring stand-up comedian and pariah to Gotham's clown prince and leader of the revolution.",
       "year": 2019,
       "genre": "Drama",
-      "image": "https://pbs.twimg.com/media/EDEsh0gU4AUTO3P?format=jpg&name=900x900"
+      "image": "https://pbs.twimg.com/media/EDEsh0gU4AUTO3P?format=jpg&name=900x900",
+      "rating": 0
+    },
+    {
+      "title": "Superbad",
+      "description": "Two inseparable best friends navigate the last weeks of high school and are invited to a gigantic house party. Together with their nerdy friend, they spend a long day trying to score enough alcohol to supply the party and inebriate two girls in order to kick-start their sex lives before they go off to college. Their quest is complicated after one of them falls in with two inept cops who are determined to show him a good time.",
+      "year": "2007",
+      "genre": "Comedy",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRvLQbbvCI7YSXPxTI82xNeH9rkcuapxzvA66eugcMEmFCzoNhb",
+      "rating": 0,
+      "id": 61
+    },
+    {
+      "title": "V for Vendetta",
+      "description": "Following world war, London is a police state occupied by a fascist government, and a vigilante known only as V (Hugo Weaving) uses terrorist tactics to fight the oppressors of the world in which he now lives. When V saves a young woman named Evey (Natalie Portman) from the secret police, he discovers an ally in his fight against England's oppressors.",
+      "year": "2005",
+      "genre": "Action",
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYEQaJG-XP3ZMdKH2ltSA48cZsX9KGRP2kKGXTajQEeSYPrkON",
+      "rating": 0,
+      "id": 62
+    },
+    {
+      "title": "",
+      "description": "",
+      "year": "",
+      "genre": "",
+      "image": "",
+      "id": 63
+    },
+    {
+      "title": "Lord of the Rings: The Two Towers",
+      "description": "The Lord of the Rings: The Two Towers is a 2002 epic fantasy adventure film directed by Peter Jackson from a screenplay by Fran Walsh, Philippa Boyens, Stephen Sinclair, and Jackson, based on 1954's The Two Towers, the second volume of the novel The Lord of the Rings by J. R. R. Tolkien.",
+      "year": "2002",
+      "genre": "Fantasy",
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR6nJbgIc4VDmwLzaMo8CLOYiPkpgd5Bdm8EpL9hna4XZggrlit",
+      "id": 64
     }
   ]
 }
