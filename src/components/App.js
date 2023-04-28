@@ -1,7 +1,8 @@
 // Importing necessary components
+
 import React, { useState, useEffect } from 'react';
 import { Route, Switch } from "react-router-dom";
-
+import MovieList from './MovieList';
 import '../DarkToLight.css';
 import Watchlist from './Watchlist';
 import NavBar from './NavBar';
@@ -12,8 +13,7 @@ import About from './About';
 
 
 function App() {
-
-  const [isDark, setIsDark] = useState(false);
+const [isDark, setIsDark] = useState(false);
 
       // Function to toggle between light and dark mode
   const toggleDarkMode = () => {
@@ -29,11 +29,9 @@ function App() {
     }
   }, [isDark]);
 
-
-
     return (
     <div>
-      <header>
+        <header>
         <DarkToLight 
           isDark={isDark} 
           toggleDarkMode={toggleDarkMode} 
@@ -58,11 +56,3 @@ function App() {
 
 // Exporting the App component
 export default App;
-
-
-//// broke off code below for later use (gets random pick from fetch)
-  //     const randomIndex = Math.floor(Math.random() * data.movies.length);
-  //     setMovie(data.movies[randomIndex]);
-  //     })
-  //   .catch(error => console.error(error));
-  // 

@@ -4,7 +4,6 @@ import MovieDisplay from './MovieDisplay';
 import MovieList from './MovieList';
 
 
-
 // Setting base URL and movies URL
 const baseUrl = "http://localhost:3000";
 const moviesUrl = baseUrl + "/movies";
@@ -18,7 +17,7 @@ function Home(){
   const [selectedMovie, setSelectedMovie] = useState({});
   const [radioBtn, setRadioBtn] = useState(false);
   const [movieSearch, setMovieSearch] = useState('')
-  
+
 
   
 
@@ -82,8 +81,7 @@ function Home(){
 
   //filter movies when searching in search bar
   const filterMovies = allMovies.filter( movie => movie.title.toLowerCase().includes(movieSearch.toLowerCase()))
-
-  console.log(filterMovies)
+  
   // Rendering the components and passing necessary props
   return (
     <div>
