@@ -3,12 +3,12 @@ import { NavLink, Router } from "react-router-dom";
 
 const linkStyles = {
     display: "inline-block",
-    width: "50px",
-    padding: "12ps",
-    margin: "0 6px 6px",
+    width: "120px",
+    padding: "24px",
+    margin: "0 12px 12px",
     background: "purple",
     textDecoration: "none",
-    color: "yellow",
+    color: "orange",
 }
 
 function NavBar() {
@@ -36,14 +36,14 @@ function NavBar() {
                 Watch List
             </NavLink>
             <NavLink
-                to="/movielist"
+                to="/about"
                 exact
                 style={ linkStyles }
                 activeStyle={{
                     background: "purple"
                 }}
             >
-                Movie List
+                About
             </NavLink>
             </Router>
         </div>

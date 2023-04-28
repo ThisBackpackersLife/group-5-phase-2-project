@@ -2,7 +2,6 @@ import React, { useState, useEffect } from 'react';
 import MovieForm from './MovieForm';
 import MovieDisplay from './MovieDisplay';
 import MovieList from './MovieList';
-import DarkToLight from './DarkToLight';
 
 
 // Setting base URL and movies URL
@@ -18,21 +17,6 @@ function Home(){
   const [selectedMovie, setSelectedMovie] = useState({});
   const [radioBtn, setRadioBtn] = useState(false);
   const [movieSearch, setMovieSearch] = useState('')
-  const [isDark, setIsDark] = useState(false);
-
-  // Function to toggle between light and dark mode
-  const toggleDarkMode = () => {
-    setIsDark(!isDark);
-  };
-
-  // useEffect hook to change body class based on dark mode state
-  useEffect(() => {
-    if (isDark) {
-      document.body.classList.add("dark");
-    } else {
-      document.body.classList.remove("dark");
-    }
-  }, [isDark]);
 
 
   
@@ -97,17 +81,10 @@ function Home(){
 
   //filter movies when searching in search bar
   const filterMovies = allMovies.filter( movie => movie.title.toLowerCase().includes(movieSearch.toLowerCase()))
-
   
   // Rendering the components and passing necessary props
   return (
     <div>
-        <header>
-        <DarkToLight 
-          isDark={isDark} 
-          toggleDarkMode={toggleDarkMode} 
-        />
-        </header>
     <MovieDisplay 
         rating={rating} 
         onSubmit={handleRatingChange} 

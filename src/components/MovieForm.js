@@ -16,5 +16,57 @@ function MovieForm({ onSubmit }) {
     setYear("");
     setGenre("");
     setImage("");
-  }}
-  export default MovieForm
+  };
+
+  return (
+    <form onSubmit={handleSubmit}>
+      <label>
+        Title:
+        <input
+          type="text"
+          value={title}
+          onChange={(event) => setTitle(event.target.value)}
+        />
+      </label>
+      <br />
+      <label>
+        Description:
+        <textarea
+          value={description}
+          onChange={(event) => setDescription(event.target.value)}
+        />
+      </label>
+      <br />
+      <label>
+        Year:
+        <input
+          type="text"
+          value={year}
+          onChange={(event) => setYear(event.target.value)}
+        />
+      </label>
+      <br />
+      <label>
+        Genre:
+        <input
+          type="text"
+          value={genre}
+          onChange={(event) => setGenre(event.target.value)}
+        />
+      </label>
+      <br />
+      <label>
+        Image URL:
+        <input
+          type="text"
+          value={image}
+          onChange={(event) => setImage(event.target.value)}
+        />
+      </label>
+      <br />
+      <input type="submit" value="Add Movie" />
+    </form>
+  );
+}
+
+export default MovieForm;
