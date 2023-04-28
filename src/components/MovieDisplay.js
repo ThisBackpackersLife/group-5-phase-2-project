@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 
 function MovieDisplay({ selectedMovie, onAddToWatchlist, onRemoveFromWatchlist, watchlist, rating, onSubmit }) {
   console.log("Selected movie:", selectedMovie);
