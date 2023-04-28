@@ -1,5 +1,5 @@
 import React from "react";
-import { NavLink } from "react-router-dom";
+import { NavLink, Router } from "react-router-dom";
 
 const linkStyles = {
     display: "inline-block",
@@ -14,6 +14,7 @@ const linkStyles = {
 function NavBar() {
     return (
         <div>
+            <Router>
             <NavLink
                 to="/"
                 exact
@@ -44,6 +45,7 @@ function NavBar() {
             >
                 Movie List
             </NavLink>
+            </Router>
         </div>
     )
 }

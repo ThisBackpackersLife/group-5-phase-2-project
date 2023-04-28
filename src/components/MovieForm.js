@@ -17,3 +17,4 @@ function MovieForm({ onSubmit }) {
     setGenre("");
     setImage("");
   }}
+  export default MovieForm

@@ -3,7 +3,7 @@ import React from 'react';
 import { Route, Switch } from "react-router-dom";
 import MovieList from './MovieList';
 import '../DarkToLight.css';
-import Watchlist from './Watchlist';
+import Watchlist from './WatchList';
 import NavBar from './NavBar';
 import Home from './Home';
 
